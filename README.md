@@ -48,3 +48,24 @@ npm i -D ts-node@10.9.2
 npx shadcn@2.3.0 init
 
 npx shadcn@2.3.0 add button
+
+#### Ref.
+``` # 02
+https://www.youtube.com/watch?v=BMTj4dk1Zlk&t=2929s
+```
+
+``` # 03
+https://www.youtube.com/watch?v=EEvF4GfZE6o&t=1088s
+```
+
+``` # 04
+https://www.youtube.com/watch?v=4A0iu6-1Pmo
+```
+
+``` # 05
+https://www.youtube.com/watch?v=W6s2BQAA9FA
+```
+
+``` # 06
+https://www.youtube.com/watch?v=o6ziU63mDyw
+```
